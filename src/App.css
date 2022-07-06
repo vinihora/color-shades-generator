@@ -67,7 +67,7 @@ body {
 
 @media screen and (max-width: 615px) {
   .header {
-    height: 10vh;
+    height: 17vh;
     justify-content: space-around;
     color: var(--clr-grey-2);
     padding-left: 0;
